@@ -5,7 +5,10 @@
 - Requests `pip3 install requests`
 
 ## PROJECT IDEA
-Designing a `Single Entry Multiple Exit System` for the campus of `IIT(ISM) Dhanbad`
+Designing a `Single Entry Multiple Exit System` for the campus of `IIT(ISM) Dhanbad` 
+
+##
+Spandan Kundu Anda Ka Mundu
 
 ## PROJECT BRIEFINGS
 1. The project devises a way to allow people to conveniently move in and out of campus using the best possible security forces and systems.
