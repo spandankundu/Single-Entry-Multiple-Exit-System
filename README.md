@@ -7,9 +7,6 @@
 ## PROJECT IDEA
 Designing a `Single Entry Multiple Exit System` for the campus of `IIT(ISM) Dhanbad` 
 
-##
-Spandan Kundu Anda Ka Mundu
-
 ## PROJECT BRIEFINGS
 1. The project devises a way to allow people to conveniently move in and out of campus using the best possible security forces and systems.
 2. In this system, the entire inflow of traffic can only be from the main gate. However, people may exit from multiple exit points allowing the conservation of fuel and energy. 
